@@ -7,10 +7,11 @@ import project.mentorship.projectmentorship.domain.enums.SeniorityEnum;
 import java.util.Date;
 import java.util.List;
 
-public class MentorVo {private long id;
+public class MentorVo {
+    private long id;
     private String name;
     private RoleEnum role;
-    private SeniorityEnum seniority;
+   // private SeniorityEnum seniority;
     private Date contractDate;
     private GrowthUnitsEnum growthUnit;
     private Boolean avaliable;
