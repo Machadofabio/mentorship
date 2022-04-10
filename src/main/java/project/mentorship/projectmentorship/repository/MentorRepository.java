@@ -7,6 +7,6 @@ import java.util.List;
 
 public interface MentorRepository extends JpaRepository<Mentor, Long> {
 
-    List<Mentor> findAllMentorsAvaliable();
+    List<Mentor> findAll();
 
 }

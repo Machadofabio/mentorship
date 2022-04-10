@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public enum GrowthUnitsEnum {
-    DRAGONFLY("Dragongflr"),
+    DRAGONFLY("Dragonfly"),
     ATLAS("Atlas"),
     VOYAGER("Voyager");
 
