@@ -1,9 +1,6 @@
 package project.mentorship.projectmentorship.vo;
 
 import lombok.Data;
-import project.mentorship.projectmentorship.domain.enums.GrowthUnitsEnum;
-import project.mentorship.projectmentorship.domain.enums.RoleEnum;
-import project.mentorship.projectmentorship.domain.enums.SeniorityEnum;
 
 import java.time.ZonedDateTime;
 import java.util.List;

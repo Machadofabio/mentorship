@@ -30,8 +30,6 @@ public class FindMentorServiceImpl implements FindMentorService {
             mentor.setSeniority(m.getSeniority());
             mentorsList.add(mentor);
         });
-
-
         return mentorsList;
     }
 }
